@@ -54,7 +54,7 @@ class Remi extends FullStackDeveloper {
       '⭐⭐⭐⭐⭐': ['French'],
       '⭐⭐⭐': ['English'],
       '⭐⭐': ['Spanish'],
-    }
+    },
   })
 
   getRelevantExperience = () => ({
@@ -76,7 +76,7 @@ class Remi extends FullStackDeveloper {
         - Technical documents
         - Refactos
         - Lead front
-      `;
+      `,
     }
   })
 
@@ -102,3 +102,58 @@ class Remi extends FullStackDeveloper {
   })
 }
 ```
+
+<br>
+
+## 👨‍💻 Portfolio
+
+Here are some projects I worked on during my La Suite and Co working :
+
+- [Syltours](https://www.syltours.fr/)
+  - Built Wordpress from scratch | Front/Back
+  - PHP, HTML5, CSS3, JavaScript
+- [Mondial Tourisme](https://www.mondialtourisme.fr/fr)
+  - Built Drupal from scratch | Front
+  - PHP, TWIG, HTML5, CSS3, JavaScript
+- [Le pouvoir de nous engager](https://www.lepouvoirdenousengager.fr/)
+  - Built experiential site | Front/Back
+  - VUE3, NUXTJS
+- [La Suite and Co](https://www.lasuiteandco.com/)
+  - Built Wordpress from scratch | Front/Back
+  - PHP, HTML5, CSS3, JavaScript
+- [Transdev](https://www.transdev.com/)
+  - Wordpress maintenance | Front/Back
+  - Custom widgets, Elementor, PHP, HTML5, CSS3, JavaScript
+- [ClearChannel](https://www.clearchannel.fr/)
+  - Built Drupal from scratch | Front
+  - PHP, TWIG, HTML5, CSS3, JavaScript
+- [John Paul](https://www.johnpaul.com/fr)
+  - Built Drupal from scratch | Front
+  - PHP, TWIG, HTML5, CSS3, JavaScript
+- [Alinea Avocats](https://alinea-avocats.eu/fr/)
+  - Built Wordpress from scratch | Front/Back
+  - PHP, HTML5, CSS3, JavaScript
+- [Beicip](https://beicip.com/)
+  - Built Wordpress from scratch | Front/Back
+  - PHP, HTML5, CSS3, JavaScript
+- [GBH](https://www.gbh.fr/fr)
+  - Drupal maintenance | Front
+  - TWIG, HTML5, CSS3, JavaScript
+- [Infociments](https://www.infociments.fr/)
+  - Drupal maintenance | Front
+  - TWIG, HTML5, CSS3, JavaScript
+
+And more projects ...
+
+Here are some personal projects :
+
+- [My website - Rémi Tiab](https://www.remitiab.fr)
+  - Built Wordpress from scratch / Front/Back
+  - WooCommerce, PHP, HTML5, CSS3, JavaScript
+- [Luca's Garden](https://www.lucasgarden.fr)
+  - Built Wordpress from scratch | Front/Back
+  - PHP, HTML5, CSS3, JavaScript
+
+<br>
+
+## 🛠️ Tech Stack &nbsp; | &nbsp; 🔍 Tech Watch
