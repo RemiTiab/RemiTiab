@@ -1,13 +1,14 @@
 ## 👋 Hey there! I'm Rémi, and welcome to my GitHub!
 
+<h3>Core Skills</h3>
 <p align="center">
-  <h2>Core Skills</h2>
   <img src="https://skillicons.dev/icons?i=wordpress,html,css,sass,javascript,jquery,typescript,webpack,babel,vue,nuxtjs,nodejs,vscode,git,github,gitlab,&perline=8" />
-  <p>LESS - BEM - DRUPAL - TWIG - SSH/SFTP - RESPONSIVE DESIGN - SEO/ACCESSIBILITE - UX/UI - CROSS BROWSER - BONNES PRATIQUES</p>
 </p>
+<p align="center">LESS - BEM - DRUPAL - TWIG - SSH/SFTP - RESPONSIVE DESIGN - SEO/ACCESSIBILITE - UX/UI - CROSS BROWSER - BONNES PRATIQUES</p>
 
+
+<h3>Additional notions</h3>
 <p align="center">
-  <h2>Additional notions</h2>
   <img src="https://skillicons.dev/icons?i=gulp,bootstrap,vercel,pug,svg,mysql,vim,bash,pr,ps,ai,angular,firebase,powershell,postman,react,emotion,alpinejs,aws,docker,elasticsearch,electron,netlify,unity,figma,stackoverflow,codepen,devto,discord,instagram,&perline=10" />
-  <p>IONIC - XCODE - PWA - SKETCH - GESTION DE PROJET</p>
 </p>
+<p align="center">IONIC - XCODE - PWA - SKETCH - GESTION DE PROJET</p>
