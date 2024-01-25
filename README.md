@@ -229,10 +229,10 @@ more:
 ## 🤝🏻 Connect with me
 
 <a href="mailto:remitiab@outlook.fr?subject=Hello%20Remi,%20From%20Github" title="Send me a mail">
-  <img src="(https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a target="_blank" href="https://www.instagram.com/remitiab/" title="Join me on Instagram">
-  <img src="(https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a target="_blank" href="https://www.linkedin.com/in/r%C3%A9mi-tiab-041a60171/" title="Join me on LinkedIn">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
