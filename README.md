@@ -1,16 +1,15 @@
-### Hi there 👋
+## 👋 Hey there! I'm Rémi, and welcome to my GitHub!
 
-<!--
-**RemiTiab/RemiTiab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <h2>Compétences principales</h2>
+  <img src="https://skillicons.dev/icons?i=wordpress,html,css,sass,javascript,jquery,typescript,webpack,babel,vue,nuxtjs,nodejs,vscode,git,github,gitlab,&perline=8" />
+  <br/>
+  <p>LESS - BEM - DRUPAL - TWIG - SSH/SFTP - RESPONSIVE DESIGN - SEO/ACCESSIBILITE - UX/UI - CROSS BROWSER - BONNES PRATIQUES</p>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <h2>Notions supplémentaires</h2>
+  <img src="https://skillicons.dev/icons?i=gulp,bootstrap,vercel,pug,svg,mysql,vim,bash,pr,ps,ai,angular,firebase,powershell,postman,react,emotion,alpinejs,aws,docker,elasticsearch,electron,netlify,unity,figma,stackoverflow,codepen,devto,discord,instagram,&perline=10" />
+  <br/>
+  <p>IONIC - XCODE - PWA - SKETCH - GESTION DE PROJET</p>
+</p>
