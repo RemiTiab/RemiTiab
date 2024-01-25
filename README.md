@@ -158,7 +158,7 @@ Here are some personal projects :
 
 ## 🛠️ Tech Stack &nbsp; | &nbsp; 🔍 Tech Watch
 
-<div><a href="https://app.daily.dev/remitiab" ><img align='right' src="https://api.daily.dev/devcards/0650bfe7d23b4d688aa4feafe6f0bc48.png?r=gli" width="230" style="margin-left: 20px;" alt="Rémi Tiab's Dev Card"/></a></div>
+<div><a href="https://app.daily.dev/remitiab" ><img align='right' src="https://github.com/RemiTiab/RemiTiab/blob/main/devcard.svg" width="230" style="margin-left: 20px;" alt="Rémi Tiab's Dev Card"/></a></div>
 
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;&nbsp;
 ![Drupal](https://img.shields.io/badge/Drupal%20-%20%230678BE?style=for-the-badge&logo=drupal)&nbsp;&nbsp;
