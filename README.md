@@ -211,5 +211,15 @@ more:
 ![Cordova](https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8)&nbsp;&nbsp;
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)&nbsp;&nbsp;
 
+<br>
+
+## ⚡  GitHub Analytics
+
+<p align="left">
+  <a href="https://github.com/remitiab">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=remitiab&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="Rémi Tiab's GitHub stats"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=remitiab&layout=compact&langs_count=8&theme=react" alt="Giuseppe's GitHub languages"/>
+  </a>
+</p>
 
 <br>
