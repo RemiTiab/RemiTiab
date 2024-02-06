@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=wordpress,html,css,sass,javascript,jquery,typescript,webpack,babel,vue,nuxtjs,nodejs,vscode,git,github,gitlab&perline=8" />
 </p>
-<p align="center">LESS - BEM - DRUPAL - TWIG - SSH/SFTP - RESPONSIVE DESIGN - SEO/ACCESSIBILITE - UX/UI - CROSS BROWSER - GOOD PRACTICES - PROJECTS MANAGEMENT</p>
+<p align="center">PHP - LESS - BEM - DRUPAL - TWIG - SSH/SFTP - RESPONSIVE DESIGN - SEO/ACCESSIBILITE - UX/UI - CROSS BROWSER - GOOD PRACTICES - PROJECTS MANAGEMENT</p>
 <br/>
 <h3 align="center">Additional notions</h3>
 <p align="center">
