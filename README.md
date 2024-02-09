@@ -193,7 +193,6 @@ Software and environments:
 ![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)&nbsp;&nbsp;
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)&nbsp;&nbsp;
 ![Mozilla Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)&nbsp;&nbsp;
-![MACBOOK PRO 2019](https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white)&nbsp;&nbsp;
 
 more:
 
