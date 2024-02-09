@@ -177,7 +177,7 @@ Software and environments:
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;&nbsp;
-![GitLab](https://img.shields.io/badge/Gitlab%20-%20%23FC6D26?style=for-the-badge&logo=gitlab)
+![GitLab](https://img.shields.io/badge/Gitlab%20-%20%23FC6D26?style=for-the-badge&logo=gitlab)&nbsp;&nbsp;
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)&nbsp;&nbsp;
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)&nbsp;&nbsp;
 ![iTerm](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)&nbsp;&nbsp;
