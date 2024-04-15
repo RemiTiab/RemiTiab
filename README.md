@@ -58,7 +58,7 @@ class Remi extends FullStackDeveloper {
   })
 
   getRelevantExperience = () => ({
-    'Octave Octave'= {
+    'Octave Octave - Angie'= {
       what: 'Fullstack Senior Developer',
       when: 'From 04.03.2023 to now',
       where: 'Paris, France',
