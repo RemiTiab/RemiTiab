@@ -58,9 +58,23 @@ class Remi extends FullStackDeveloper {
   })
 
   getRelevantExperience = () => ({
+    'Octave Octave'= {
+      what: 'Fullstack Senior Developer',
+      when: 'From 04.03.2023 to now',
+      where: 'Paris, France',
+      stack: ['Wordpress', 'Wordpress VIP', 'Drupal', 'React', 'Tailwind', 'VueJs', 'HTML5', 'CSS3', 'JavaScript', ...],
+      about: 'Communications agency',
+      done: `
+        - Wordpress VIP from scratch Tailwind, Big structure Multisites, Deep accessibility | Front/Back
+        - Wordpress from scratch | Front/Back
+        - Onepage website with deep animations and design
+        - Refactoring
+        - Leading team of 3 developers back/front
+      `,
+    }
     'La Suite and Co'= {
       what: 'Junior Frontend Developer',
-      when: 'From 19.08.2019 to 14.03.2024',
+      when: 'From 19.08.2019 to 29.02.2024',
       where: 'Paris, France',
       stack: ['Wordpress', 'Drupal', 'VueJs', 'HTML5', 'CSS3', 'JavaScript', ...],
       about: 'Communications agency',
