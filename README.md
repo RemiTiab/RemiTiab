@@ -30,7 +30,7 @@ class Remi extends FullStackDeveloper {
     age: '30',
     from: 'France',
 
-    email: 'remitiab@outlook.fr',
+    email: 'remitiab@hotmail.fr',
     linkedin: 'https://www.linkedin.com/in/rémi-tiab-041a60171/',
     github: 'https://github.com/RemiTiab',
 
@@ -62,7 +62,7 @@ class Remi extends FullStackDeveloper {
       what: 'Fullstack Senior Developer',
       when: 'From 04.03.2023 to now',
       where: 'Paris, France',
-      stack: ['Wordpress', 'Wordpress VIP', 'Drupal', 'React', 'Tailwind', 'VueJs', 'HTML5', 'CSS3', 'JavaScript', ...],
+      stack: ['Wordpress', 'Wordpress VIP', 'Drupal', 'React', 'Timber', 'Tailwind', 'VueJs', 'HTML5', 'CSS3', 'JavaScript', ...],
       about: 'Communications agency',
       done: `
         - Wordpress VIP from scratch Tailwind, Big structure Multisites, Deep accessibility | Front/Back
