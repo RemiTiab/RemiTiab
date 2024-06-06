@@ -121,7 +121,7 @@ class Remi extends FullStackDeveloper {
 
 ## 👨‍💻 Portfolio
 
-Here my latest project at Octave Octave :
+Here my latest projects at Octave Octave :
 
 - [Wavestone](https://www.wavestone.com)
   - Built Wordpress VIP from scratch | Front/Back
@@ -135,6 +135,9 @@ Here my latest project at Octave Octave :
 - [Galeries Lafayette 130 ans](wait production link)
   - Built Wordpress from scratch | Front/Back
   - PHP, HTML5, CSS3, JavaScript POO, GSAP Animations, Performances, Design, Security
+- [Vinci Airports](wait production link)
+  - Built Wordpress from scratch | Front/Back
+  - PHP, HTML5, CSS3, JavaScript POO, GSAP Animations, Security
 
 Here are some projects I worked on during my La Suite and Co working :
 
