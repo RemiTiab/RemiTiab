@@ -126,7 +126,7 @@ Here my latest projects at Octave Octave :
 - [Wavestone](https://www.wavestone.com)
   - Built Wordpress VIP from scratch | Front/Back
   - PHP, TWIG, Timber, Tailwind, JavaScript POO, XML, Deep Accessibility, Restrictions and Audits
-- [Plastic Omnium](wait production link)
+- [Plastic Omnium](https://vibes.opmobility.com/)
   - Built Wordpress from scratch | Front/Back
   - PHP, HTML5, CSS3, JavaScript
 - [Angie Business](wait production link)
