@@ -129,7 +129,7 @@ Here my latest projects at Octave Octave :
 - [Plastic Omnium](https://vibes.opmobility.com/)
   - Built Wordpress from scratch | Front/Back
   - PHP, HTML5, CSS3, JavaScript
-- [Angie Business](wait production link)
+- [Angie Business](https://business.angie.fr/)
   - Built Wordpress from scratch | Front/Back
   - PHP, HTML5, CSS3, JavaScript
 - [Galeries Lafayette 130 ans](wait production link)
