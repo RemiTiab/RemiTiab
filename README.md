@@ -132,12 +132,21 @@ Here my latest projects at Octave Octave :
 - [Angie Business](https://business.angie.fr/)
   - Built Wordpress from scratch | Front/Back
   - PHP, HTML5, CSS3, JavaScript
+- [Angie IA](https://generative-experience-ia.com/)
+  - Built Wordpress from scratch | Front/Back
+  - PHP, HTML5, CSS3, JavaScript, GSAP animations
 - [Galeries Lafayette 130 ans](wait production link)
   - Built Wordpress from scratch | Front/Back
   - PHP, HTML5, CSS3, JavaScript POO, GSAP Animations, Performances, Design, Security
 - [Vinci Airports](wait production link)
   - Built Wordpress from scratch | Front/Back
   - PHP, HTML5, CSS3, JavaScript POO, GSAP Animations, Security
+- [Clarins](Intern & Protected website)
+  - Maintenance | Front/Back
+  - React, Vite, Vercel, SSO Connections
+- [Lacoste Corporate](https://corporate.lacoste.com/)
+  - Maintenance Wordpress | Front/Back
+  - PHP, HTML5, CSS3, JavaScript
 
 Here are some projects I worked on during my La Suite and Co working :
 
