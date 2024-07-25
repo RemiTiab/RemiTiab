@@ -71,7 +71,7 @@ class Remi extends FullStackDeveloper {
         - Refactoring
         - Leading team of 3 developers back/front
       `,
-    }
+    },
     'La Suite and Co'= {
       what: 'Junior Frontend Developer',
       when: 'From 19.08.2019 to 29.02.2024',
