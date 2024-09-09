@@ -135,15 +135,15 @@ Here my latest projects at Octave Octave :
 - [Angie IA](https://generative-experience-ia.com/)
   - Built Wordpress from scratch | Front/Back
   - PHP, HTML5, CSS3, JavaScript, GSAP animations
-- [Galeries Lafayette 130 ans](wait production link)
+- [Galeries Lafayette 130 ans](https://130ans.galerieslafayette.com/)
   - Built Wordpress from scratch | Front/Back
   - PHP, HTML5, CSS3, JavaScript POO, GSAP Animations, Performances, Design, Security
-- [Vinci Airports](wait production link)
+- [Vinci Airports](WOK)
   - Built Wordpress from scratch | Front/Back
   - PHP, HTML5, CSS3, JavaScript POO, GSAP Animations, Security
-- [Clarins](Intern & Protected website)
+- [Clarins Visite Immersive](Intern & Protected website)
   - Maintenance | Front/Back
-  - React, Vite, Vercel, SSO Connections
+  - React, Vite, Vercel, SSO Connections, OpenIDConnect, Azure
 - [Lacoste Corporate](https://corporate.lacoste.com/)
   - Maintenance Wordpress | Front/Back
   - PHP, HTML5, CSS3, JavaScript
