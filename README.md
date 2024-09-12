@@ -147,6 +147,12 @@ Here my latest projects at Octave Octave :
 - [Lacoste Corporate](https://corporate.lacoste.com/)
   - Maintenance Wordpress | Front/Back
   - PHP, HTML5, CSS3, JavaScript
+- [Angie](https://angie.com/)
+  - Maintenance Wordpress | Front/Back
+  - PHP, HTML5, CSS3, JavaScript
+- [Octave Octave](https://octaveoctave.com/)
+  - Maintenance Wordpress | Front/Back
+  - PHP, HTML5, CSS3, JavaScript
 
 Here are some projects I worked on during my La Suite and Co working :
 
