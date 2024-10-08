@@ -194,7 +194,13 @@ And more projects ...
 
 Here are some personal projects :
 
-- [My website - Rémi Tiab](https://www.remitiab.fr)
+- [AO SOLUTIONS](https://www.aosolutions.fr)
+  - Built Wordpress from scratch / Front/Back
+  - PHP, HTML5, CSS3, JavaScript, GSAP
+- [WP EXPERTS](https://www.wp-experts.fr)
+  - Built Wordpress from scratch / Front/Back
+  - PHP, HTML5, CSS3, JavaScript, GSAP
+- [My website - Rémi Tiab](DELETED)
   - Built Wordpress from scratch / Front/Back
   - WooCommerce, PHP, HTML5, CSS3, JavaScript
 - [Luca's Garden](https://www.lucasgarden.fr)
