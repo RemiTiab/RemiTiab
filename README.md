@@ -41,9 +41,9 @@ class Remi extends FullStackDeveloper {
 
   getSkills = () => ({
     hard: {
-      '⭐⭐⭐⭐⭐': ['Wordpress', 'HTML5', 'CSS3', 'JavaScript'],
-      '⭐⭐⭐⭐': ['Drupal', 'VueJs', 'NuxtJs','Figma'],
-      '⭐⭐⭐': ['Angular', 'MySQL', 'Premiere Pro']
+      '⭐⭐⭐⭐⭐': ['Wordpress', 'HTML5', 'CSS3', 'JavaScript', 'GSAP'],
+      '⭐⭐⭐⭐': ['Drupal', 'VueJs', 'NuxtJs', 'Figma'],
+      '⭐⭐⭐': ['React', 'Angular', 'MySQL', 'Premiere Pro']
 
     },
     soft: {
@@ -123,6 +123,9 @@ class Remi extends FullStackDeveloper {
 
 Here my latest projects at Octave Octave :
 
+- [Galeries Lafayette 130 ans](https://130ans.galerieslafayette.com/)
+  - Built Wordpress from scratch | Front/Back
+  - PHP, HTML5, CSS3, JavaScript POO, GSAP Animations, Performances, Design, Security
 - [Wavestone](https://www.wavestone.com)
   - Built Wordpress VIP from scratch | Front/Back
   - PHP, TWIG, Timber, Tailwind, JavaScript POO, XML, Deep Accessibility, Restrictions and Audits
@@ -135,9 +138,6 @@ Here my latest projects at Octave Octave :
 - [Angie IA](https://generative-experience-ia.com/)
   - Built Wordpress from scratch | Front/Back
   - PHP, HTML5, CSS3, JavaScript, GSAP animations
-- [Galeries Lafayette 130 ans](https://130ans.galerieslafayette.com/)
-  - Built Wordpress from scratch | Front/Back
-  - PHP, HTML5, CSS3, JavaScript POO, GSAP Animations, Performances, Design, Security
 - [Vinci Airports](WOK)
   - Built Wordpress from scratch | Front/Back
   - PHP, HTML5, CSS3, JavaScript POO, GSAP Animations, Security
