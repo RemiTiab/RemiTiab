@@ -132,6 +132,9 @@ Here my latest projects at Octave Octave :
 - [Plastic Omnium](https://vibes.opmobility.com/)
   - Built Wordpress from scratch | Front/Back
   - PHP, HTML5, CSS3, JavaScript
+- [Technip Energies 2025](https://2025.ten.com/)
+  - Built Wordpress from scratch - Carte de voeux  | Front/Back
+  - PHP, HTML5, CSS3, JavaScript, GSAP Animations, Quizz
 - [Angie Business](https://business.angie.fr/)
   - Built Wordpress from scratch | Front/Back
   - PHP, HTML5, CSS3, JavaScript
@@ -144,6 +147,9 @@ Here my latest projects at Octave Octave :
 - [Clarins Visite Immersive](Intern & Protected website)
   - Maintenance | Front/Back
   - React, Vite, Vercel, SSO Connections, OpenIDConnect, Azure
+- [Clarins Group](https://www.groupeclarins.com/)
+  - Maintenance Wordpress | Front/Back
+  - PHP, HTML5, CSS3, JavaScript
 - [Lacoste Corporate](https://corporate.lacoste.com/)
   - Maintenance Wordpress | Front/Back
   - PHP, HTML5, CSS3, JavaScript
@@ -200,9 +206,6 @@ Here are some personal projects :
 - [WP EXPERTS](https://www.wp-experts.fr)
   - Built Wordpress from scratch / Front/Back
   - PHP, HTML5, CSS3, JavaScript, GSAP
-- [My website - Rémi Tiab](DELETED)
-  - Built Wordpress from scratch / Front/Back
-  - WooCommerce, PHP, HTML5, CSS3, JavaScript
 - [Luca's Garden](https://www.lucasgarden.fr)
   - Built Wordpress from scratch | Front/Back
   - PHP, HTML5, CSS3, JavaScript
