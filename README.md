@@ -123,6 +123,9 @@ class Remi extends FullStackDeveloper {
 
 Here my latest projects at Octave Octave :
 
+- [Octave Octave Landing Retrospective 2024](https://octaveoctave.com/fr/this-is-2025)
+  - Built Landing Page on Wordpress Custom Theme | Front/Back
+  - Twig, HTML5, SCSS, ES6, GSAP, Performances, Creative design
 - [Galeries Lafayette 130 ans](https://130ans.galerieslafayette.com/)
   - Built Wordpress from scratch | Front/Back
   - PHP, HTML5, CSS3, JavaScript POO, GSAP Animations, Performances, Design, Security
