@@ -33,22 +33,23 @@ class Remi extends FullStackDeveloper {
     email: 'remitiab@hotmail.fr',
     linkedin: 'https://www.linkedin.com/in/rémi-tiab-041a60171/',
     github: 'https://github.com/RemiTiab',
+    instagram: 'https://instagram.com/RemiTiab',
 
     livedIn: {
-      Pais: 'Until now',
+      Paris: 'Until now',
     },
   });
 
   getSkills = () => ({
     hard: {
-      '⭐⭐⭐⭐⭐': ['Wordpress', 'HTML5', 'CSS3', 'JavaScript', 'GSAP'],
+      '⭐⭐⭐⭐⭐': ['Wordpress', 'PHP8', 'HTML5', 'CSS3', 'ES6', 'GSAP'],
       '⭐⭐⭐⭐': ['Drupal', 'VueJs', 'NuxtJs', 'Figma'],
-      '⭐⭐⭐': ['React', 'Angular', 'MySQL', 'Premiere Pro']
+      '⭐⭐⭐': ['React', 'Angular', 'MySQL', 'Adobe']
 
     },
     soft: {
-      '⭐⭐⭐⭐⭐': ['Perseverance', 'Problem solving'],
-      '⭐⭐⭐⭐': ['Adaptability'],
+      '⭐⭐⭐⭐⭐': ['Perseverance', 'Problem solving', 'Motivation'],
+      '⭐⭐⭐⭐': ['Adaptability', 'Ambitious', 'Commercial', 'Curious', 'Rentability'],
     },
     languages: {
       '⭐⭐⭐⭐⭐': ['French'],
@@ -62,18 +63,18 @@ class Remi extends FullStackDeveloper {
       what: 'Fullstack Senior Developer',
       when: 'From 04.03.2023 to now',
       where: 'Paris, France',
-      stack: ['Wordpress', 'Wordpress VIP', 'Drupal', 'React', 'Timber', 'Tailwind', 'VueJs', 'HTML5', 'CSS3', 'JavaScript', ...],
+      stack: ['Wordpress (VIP)', 'Drupal', 'React', 'Timber', 'VueJs', 'PHP8', 'HTML5', 'CSS3', 'ES6', 'Tailwind', 'API'],
       about: 'Communications agency',
       done: `
         - Wordpress VIP from scratch Tailwind, Big structure Multisites, Deep accessibility | Front/Back
         - Wordpress from scratch | Front/Back
         - Onepage website with deep animations and design
-        - Refactoring
+        - Refactoring Performance, SEO, Accessibility, Good practices
         - Leading team of 3 developers back/front
       `,
     },
     'La Suite and Co'= {
-      what: 'Junior Frontend Developer',
+      what: 'Junior to Confirmed Frontend Developer',
       when: 'From 19.08.2019 to 29.02.2024',
       where: 'Paris, France',
       stack: ['Wordpress', 'Drupal', 'VueJs', 'HTML5', 'CSS3', 'JavaScript', ...],
@@ -97,7 +98,7 @@ class Remi extends FullStackDeveloper {
   getEducation = () => ({
     'Self training': {
       when: 'Since always',
-      how: 'Friends discussions, awwwards, daily.dev, Twitter, Youtube',
+      how: 'Friends discussions, awwwards, daily.dev, X, Youtube and more...',
       howOften: 'at least three times a week', // https://app.daily.dev/remitiab
     },
 
