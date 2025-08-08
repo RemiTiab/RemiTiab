@@ -122,48 +122,6 @@ class Remi extends FullStackDeveloper {
 
 ## 👨‍💻 Portfolio
 
-Here my latest projects at Octave Octave :
-
-- [Octave Octave Landing Retrospective 2024](https://octaveoctave.com/fr/this-is-2025)
-  - Built Landing Page on Wordpress Custom Theme | Front/Back
-  - Twig, HTML5, SCSS, ES6, GSAP, Performances, Creative design
-- [Galeries Lafayette 130 ans](https://130ans.galerieslafayette.com/)
-  - Built Wordpress from scratch | Front/Back
-  - PHP, HTML5, CSS3, JavaScript POO, GSAP Animations, Performances, Design, Security
-- [Wavestone](https://www.wavestone.com)
-  - Built Wordpress VIP from scratch | Front/Back
-  - PHP, TWIG, Timber, Tailwind, JavaScript POO, XML, Deep Accessibility, Restrictions and Audits
-- [Plastic Omnium](https://vibes.opmobility.com/)
-  - Built Wordpress from scratch | Front/Back
-  - PHP, HTML5, CSS3, JavaScript
-- [Technip Energies 2025](https://2025.ten.com/)
-  - Built Wordpress from scratch - Carte de voeux  | Front/Back
-  - PHP, HTML5, CSS3, JavaScript, GSAP Animations, Quizz
-- [Angie Business](https://business.angie.fr/)
-  - Built Wordpress from scratch | Front/Back
-  - PHP, HTML5, CSS3, JavaScript
-- [Angie IA](https://generative-experience-ia.com/)
-  - Built Wordpress from scratch | Front/Back
-  - PHP, HTML5, CSS3, JavaScript, GSAP animations
-- [Vinci Airports](WOK)
-  - Built Wordpress from scratch | Front/Back
-  - PHP, HTML5, CSS3, JavaScript POO, GSAP Animations, Security
-- [Clarins Visite Immersive](Intern & Protected website)
-  - Maintenance | Front/Back
-  - React, Vite, Vercel, SSO Connections, OpenIDConnect, Azure
-- [Clarins Group](https://www.groupeclarins.com/)
-  - Maintenance Wordpress | Front/Back
-  - PHP, HTML5, CSS3, JavaScript
-- [Lacoste Corporate](https://corporate.lacoste.com/)
-  - Maintenance Wordpress | Front/Back
-  - PHP, HTML5, CSS3, JavaScript
-- [Angie](https://angie.com/)
-  - Maintenance Wordpress | Front/Back
-  - PHP, HTML5, CSS3, JavaScript
-- [Octave Octave](https://octaveoctave.com/)
-  - Maintenance Wordpress | Front/Back
-  - PHP, HTML5, CSS3, JavaScript
-
 Here are some projects I worked on during my La Suite and Co working :
 
 - [Syltours](https://www.syltours.fr/)
