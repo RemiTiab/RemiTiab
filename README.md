@@ -35,7 +35,7 @@ class Remi extends FullStackDeveloper {
     github: 'https://github.com/RemiTiab',
 
     livedIn: {
-      Near of Toulon, south of France: 'Until now',
+      Toulon: 'Until now',
       Paris: 'Before',
     },
   });
@@ -61,7 +61,7 @@ class Remi extends FullStackDeveloper {
   getRelevantExperience = () => ({
     'WP-EXPERTS'= {
       what: 'Fullstack Senior Developer',
-      when: 'From 04.03.2024 to 01.03.2026',
+      when: 'From 01.03.2026 to now',
       where: 'Everywhere in France',
       stack: ['Wordpress', 'PHP8', 'HTML5', 'CSS3', 'ES6', 'UX/UI Design', 'Performance', 'SEO'],
       about: 'WordPress Agency',
