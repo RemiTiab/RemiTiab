@@ -27,16 +27,16 @@ class Remi extends FullStackDeveloper {
     `,
 
     name: 'Rémi Tiab',
-    age: '30',
+    age: '32',
     from: 'France',
 
     email: 'remitiab@hotmail.fr',
-    linkedin: 'https://www.linkedin.com/in/rémi-tiab-041a60171/',
+    linkedin: 'https://www.linkedin.com/in/remi-tiab/',
     github: 'https://github.com/RemiTiab',
-    instagram: 'https://instagram.com/RemiTiab',
 
     livedIn: {
-      Paris: 'Until now',
+      Near of Toulon, south of France: 'Until now',
+      Paris: 'Before',
     },
   });
 
@@ -59,9 +59,25 @@ class Remi extends FullStackDeveloper {
   })
 
   getRelevantExperience = () => ({
+    'WP-EXPERTS'= {
+      what: 'Fullstack Senior Developer',
+      when: 'From 04.03.2024 to 01.03.2026',
+      where: 'Everywhere in France',
+      stack: ['Wordpress', 'PHP8', 'HTML5', 'CSS3', 'ES6', 'UX/UI Design', 'Performance', 'SEO'],
+      about: 'WordPress Agency',
+      done: `
+        - Custom WordPress websites | From UX/UI design and conception to development
+        - WordPress development | Fully custom websites tailored to specific needs
+        - Performance optimization | Fast, efficient and optimized websites
+        - Accessibility | Inclusive websites following web accessibility best practices
+        - Web best practices | Clean, maintainable and scalable development
+        - SEO | Technical optimization and search engine visibility
+        - Responsive design | Optimized experiences across desktop, tablet and mobile
+      `,
+    },
     'Octave Octave - Angie'= {
       what: 'Fullstack Senior Developer',
-      when: 'From 04.03.2023 to now',
+      when: 'From 04.03.2024 to 01.03.2026',
       where: 'Paris, France',
       stack: ['Wordpress (VIP)', 'Drupal', 'React', 'Timber', 'VueJs', 'PHP8', 'HTML5', 'CSS3', 'ES6', 'Tailwind', 'API'],
       about: 'Communications agency',
@@ -211,6 +227,9 @@ Here are some personal projects :
   - Built Wordpress from scratch / Front/Back
   - PHP, HTML5, CSS3, JavaScript, GSAP
 - [Luca's Garden](https://www.lucasgarden.fr)
+  - Built Wordpress from scratch | Front/Back
+  - PHP, HTML5, CSS3, JavaScript
+- [La Flèche d'Argent](https://www.depannage-laflechedargent.fr)
   - Built Wordpress from scratch | Front/Back
   - PHP, HTML5, CSS3, JavaScript
 
